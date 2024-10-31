@@ -11,7 +11,6 @@ This project leverages Google's BERT, a transformer-based language model, to pre
 - [Features](#features)
 - [Technologies](#technologies)
 - [Credit](#credit)
-- [License](#license)
 
 ## Installation
 
