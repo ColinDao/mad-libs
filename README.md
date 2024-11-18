@@ -1,4 +1,4 @@
-# mad-libs
+# Mad Libs
 
 ## Project Description
 
